@@ -12,6 +12,11 @@ function frameIt() {
   })
 }
 
+function pressIt() {
+  $('input').on('keydown', function() {
+    
+  })
+}
 
 
 
@@ -21,6 +26,7 @@ getIt();
 
 frameIt();
 
+pressIt();
 
 
 
