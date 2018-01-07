@@ -20,6 +20,10 @@ function pressIt() {
   })
 }
 
+function submitIt() {
+  
+}
+
 
 
 $(document).ready(function(){
@@ -30,6 +34,6 @@ frameIt();
 
 pressIt();
 
-
+submitIt();
 
 });
